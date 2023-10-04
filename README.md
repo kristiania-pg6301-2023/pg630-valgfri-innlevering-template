@@ -18,4 +18,4 @@ I innleveringen skal dere lage et program med React og Express som lar brukeren 
 * [ ] Applikasjonen har tester for backend kode i Express (valgfritt)
 * [ ] Applikasjonen bruker TypeScript for frontend-kode (valgfritt)
 * [ ] Applikasjonen bruker TypeScript for backend-kode (valgfritt)
-* [ ] Applikasjonen lagrer data i MongoDB (valgfritt)
+* [ ] Applikasjonen lagrer tasks i MongoDB (valgfritt)
