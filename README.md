@@ -8,6 +8,7 @@ I innleveringen skal dere lage et program med React og Express som lar brukeren 
 
 (Kryss av det dere har gjennomført. Erstatt eventuelt ordet "tasks")
 
+* [ ] Applikasjonen har en korrekt `.gitignore`-fil og det finnes ingen passord eller store filer i Git-historikken
 * [ ] Applikasjonen har en React komponent som lister tasks
 * [ ] Applikasjonen har en React komponent som lar brukeren opprette nye tasks
 * [ ] Applikasjonen er deployet på Heroku og README-filen har link til Heroku applikasjonen
